@@ -1,0 +1,10 @@
+.make-blur {
+    filter: blur(5px) brightness(0.5);
+}
+
+.centered-div {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
